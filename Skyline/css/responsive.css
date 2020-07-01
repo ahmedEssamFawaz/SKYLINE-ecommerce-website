@@ -1,0 +1,777 @@
+
+
+        /* *****************************RESPONSIVE***************************************************************** */
+
+
+/************
+1. 1600px
+************/
+
+@media only screen and (max-width: 1600px)
+{
+	
+}
+
+/************
+2. 1440px
+************/
+
+@media only screen and (max-width: 1440px)
+{
+	
+}
+
+/************
+3. 1380px
+************/
+
+@media only screen and (max-width: 1380px)
+{
+	
+}
+
+/************
+3. 1280px
+************/
+
+@media only screen and (max-width: 1280px)
+{
+	   /* FIRST SLIDER  */
+    
+   
+.laptopTitle-Firstslider{
+  
+    top: 30%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 70px;
+  
+}
+.laptopIntro-Firstslider{
+
+    
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.4em;
+  
+}
+
+.laptopTitle-Secondslider{
+    top: 30%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 70px;
+  
+}
+.laptopIntro-Secondslider{
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.4em;
+  
+}
+}
+
+/************
+4. 1199px
+************/
+
+@media only screen and (max-width: 1199px)
+{
+   
+   /* FIRST SLIDER  */
+    
+   
+   .laptopTitle-Firstslider{
+  
+    top: 32%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 60px;
+  
+}
+.laptopIntro-Firstslider{
+
+    
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.5em;
+  
+}
+
+.laptopTitle-Secondslider{
+    top: 32%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 60px;
+  
+}
+.laptopIntro-Secondslider{
+    
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.5em;
+  
+}
+
+
+            /************************* THE TWO ADS  ***************************************/
+            .avds_container
+	{
+		height: auto;
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.avds_small
+	{
+		width: 100%;
+                height: 440px;
+                margin-right: 20px;
+	}
+	.avds_large
+	{
+		width: 100%;
+		height: 440px;
+        }
+        
+        
+.avds_discount div:first-child
+{
+	font-size: 50px;
+	
+}
+.avds_discount div:first-child span
+{
+	font-size: 36px;
+	font-weight: 700;
+	
+}
+.avds_discount div:last-child
+{
+	font-size: 12px;
+	font-weight: 700;
+	
+}
+
+
+.avds_title
+{
+	font-size: 22px;
+	font-weight: 600;
+	
+	line-height: 1.16;
+}
+
+
+    
+    
+	
+}
+
+/************
+4. 1100px
+************/
+
+@media only screen and (max-width: 1100px)
+{
+	
+}
+
+/************
+5. 1024px
+************/
+
+@media only screen and (max-width: 1024px)
+{
+	
+}
+
+/************
+6. 991px
+************/
+
+@media only screen and (max-width: 991px)
+{
+    
+.header-top-titles{
+    font-size: 13px;
+
+
+}
+
+    .myAccount-title a{
+        
+        font-size: 13px;
+    }
+    
+    .nav-item{
+        font-size: 11px;
+        
+    }
+
+    /* CARSOUOOLLL */
+
+    /* FIRST SLIDER  */
+ 
+    
+   
+  .laptopTitle-Firstslider{
+  
+    top: 34%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 50px;
+  
+}
+.laptopIntro-Firstslider{
+
+    
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.4em;
+  
+}
+
+.laptopTitle-Secondslider{
+   
+    top: 34%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-size: 50px;
+}
+.laptopIntro-Secondslider{
+   
+    top: 44%;
+    left: 15%;
+    right: 0;
+    bottom: 0px;
+    font-weight: 400;
+  
+    font-size: 1.4em;
+  
+}
+
+
+            /************************* THE TWO ADS  ***************************************/
+            .avds_container
+	{
+		height: auto;
+                padding-left: 0px;
+                padding-right: 0px;
+                
+	}
+	.avds_small
+	{
+		width: 100%;
+                height: 440px;
+                margin-right: 20px;
+                margin-bottom: 10px;
+	}
+	.avds_large
+	{
+		width: 100%;
+		height: 440px;
+        }
+        
+        
+.avds_discount div:first-child
+{
+	font-size: 50px;
+	
+}
+.avds_discount div:first-child span
+{
+	font-size: 36px;
+	font-weight: 700;
+	
+}
+.avds_discount div:last-child
+{
+	font-size: 12px;
+	font-weight: 700;
+	
+}
+
+
+.avds_title
+{
+	font-size: 22px;
+	font-weight: 600;
+	
+	line-height: 1.16;
+}
+
+
+
+
+
+.product-item .pi-pic .sale {
+    color: #ffffff;
+    font-size: 10px;
+    background: #1abb9c;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+
+.product-item .pi-pic ul li a {
+font-size: 11px;     
+
+font-weight: 700;
+color: #252525;
+display: block;
+padding: 16px 18px 12px 19px;
+text-decoration: none;
+}
+    
+	
+}
+
+/************
+7. 959px
+************/
+
+@media only screen and (max-width: 959px)
+{
+	
+}
+
+/************
+8. 880px
+************/
+
+@media only screen and (max-width: 880px)
+{
+	
+}
+
+/************
+9. 768px
+************/
+
+@media only screen and (max-width: 768px)
+{
+
+	
+    /* FIRST SLIDER  */
+ 
+    
+   
+    .laptopTitle-Firstslider{
+  
+        top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 45px;
+      
+    }
+    .laptopIntro-Firstslider{
+    
+        
+        top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1.2em;
+      
+    }
+    
+.laptopTitle-Secondslider{
+    top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 45px;
+      
+}
+.laptopIntro-Secondslider{
+    top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1.2em;
+}
+    
+
+.footer_social_area a{
+    color: white;
+    display: inline-block;
+    padding: 20px 10px;
+    font-size: 16px;
+}
+
+    
+.product-item .pi-pic .sale {
+    color: #ffffff;
+    font-size: 10px;
+    background: #1abb9c;
+    position: absolute;
+    left: 10px;
+    top: 20px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+
+.product-item .pi-pic ul li a {
+    font-size: 10px;     
+   
+	font-weight: 700;
+	color: #252525;
+	display: block;
+    padding: 16px 18px 12px 19px;
+    text-decoration: none;
+}
+
+}
+
+/************
+10. 767px
+************/
+
+@media only screen and (max-width: 767px)
+{
+    
+    .avds_large_container
+{
+	padding: 10px;
+}
+
+   
+    .avds_xl_container
+	{
+		padding: 30px;
+	}
+	.avds_xl_content
+	{
+		width: 100%;
+    }
+    
+    
+.product-item .pi-pic ul li a {
+    font-size: 16px;     
+   
+	font-weight: 700;
+	color: #252525;
+	display: block;
+    padding: 16px 18px 12px 19px;
+    text-decoration: none;
+}
+    
+.product-item .pi-pic .sale {
+    color: #ffffff;
+    font-size: 10px;
+    background: #1abb9c;
+    position: absolute;
+    left: 20px;
+    top: 50px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+}
+
+/************
+11. 575px
+************/
+
+@media only screen and (max-width: 575px)
+{
+		
+     
+    .laptopTitle-Firstslider{
+  
+        top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 45px;
+      
+    }
+    .laptopIntro-Firstslider{
+    
+        
+        top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1.2em;
+      
+    }
+    
+.laptopTitle-Secondslider{
+    top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 45px;
+      
+}
+.laptopIntro-Secondslider{
+    top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1.2em;
+}
+
+    
+}
+
+/************
+11. 539px
+************/
+
+@media only screen and (max-width: 539px)
+{
+	
+}
+
+/************
+12. 480px
+************/
+
+@media only screen and (max-width: 480px)
+{
+	
+}
+
+/************
+13. 479px
+************/
+
+@media only screen and (max-width: 479px)
+{
+     
+    .laptopTitle-Firstslider{
+  
+        top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 35px;
+      
+    }
+    .laptopIntro-Firstslider{
+    
+        
+        top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1em;
+      
+    }
+    
+.laptopTitle-Secondslider{
+    top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 45px;
+      
+}
+.laptopIntro-Secondslider{
+    top: 44%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 1.2em;
+}
+.laptopButton-Firstslider{
+    position: absolute;
+    
+    top: 54%;
+    left: 10%;
+    right: 0;
+    bottom: 0px;
+    
+  
+}
+  
+    
+.product-item .pi-pic .sale {
+    color: #ffffff;
+    font-size: 10px;
+    background: #1abb9c;
+    position: absolute;
+    left: 10px;
+    top: 40px;
+    padding: 5px 10px;
+    text-transform: uppercase;
+}
+
+	.avds_xl_content
+	{
+		padding: 30px;
+	}
+}
+
+/************
+14. 396px
+************/
+
+@media only screen and (max-width: 396px)
+{
+	   
+    .laptopTitle-Firstslider{
+  
+        top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 25px;
+      
+    }
+    .laptopIntro-Firstslider{
+    
+        
+        top: 41%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 0.8em;
+      
+    }
+    
+.laptopButton-Firstslider{
+    position: absolute;
+    
+    top: 50%;
+    left: 13%;
+    right: 0;
+    bottom: 0px;
+
+  
+}
+
+
+.laptopButton-Firstshop{
+    font-family: 'Quantico', sans-serif;
+    border: none;
+    background: #5f1854;
+    color: white;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 16px;
+  
+}
+
+
+.laptopButton-Firstlearn{
+    
+    font-family: 'Quantico', sans-serif;
+    background: transparent;
+    width: 120px;
+     height: 50px;
+     cursor: pointer;
+     font-size: 16px;
+     border:  2px solid #5f1854;
+    font-weight: 500;
+     color: #5f1854;
+     margin: 20px 0px 0px 30px;
+}
+
+.laptopTitle-Secondslider{
+    top: 34%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-size: 25px;
+      
+}
+.laptopIntro-Secondslider{
+    top: 41%;
+        left: 15%;
+        right: 0;
+        bottom: 0px;
+        font-weight: 400;
+      
+        font-size: 0.8em;
+}
+
+.laptopButton-Secondslider{
+    position: absolute;
+    
+    top: 50%;
+    left: 13%;
+    right: 0;
+    bottom: 0px;
+   
+  
+}
+  
+
+
+.laptopButton-Secondshop{
+    font-family: 'Quantico', sans-serif;
+    border: none;
+    background: #5f1854;
+    color: white;
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+    font-size: 16px;
+  
+}
+
+
+.laptopButton-Secondlearn{
+    
+    
+    font-family: 'Quantico', sans-serif;
+    background: transparent;
+    width: 120px;
+     height: 50px;
+     cursor: pointer;
+     font-size: 16px;
+     border:  2px solid #5f1854;
+    font-weight: 500;
+     color: #5f1854;
+     margin: 20px 0px 0px 30px;
+}
+}
